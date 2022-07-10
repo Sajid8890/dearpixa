@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Desktop\\new project"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bigwing-master"
+	}
+}
